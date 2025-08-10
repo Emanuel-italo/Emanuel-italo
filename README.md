@@ -31,6 +31,7 @@
 
 ![Snake animation](https://github.com/emanuel-italo/emanuel-italo/blob/output/github-contribution-grid-snake.svg)
 
+
 ---
 
 💡 *"A tecnologia é a ponte que transforma problemas em oportunidades."*

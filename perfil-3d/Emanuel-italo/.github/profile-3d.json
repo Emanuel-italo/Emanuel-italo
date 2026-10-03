@@ -1,0 +1,19 @@
+{
+  "type": "normal",
+  "fileName": "profile-blueprint.svg",
+  "backgroundColor": "#1C2C6E",
+  "foregroundColor": "#F4F6FF",
+  "strongColor": "#FFD25A",
+  "weakColor": "#8496DA",
+  "radarColor": "#FFD25A",
+  "growingAnimation": true,
+  "contribColors": ["#2B3F8C", "#4E64BD", "#93A2E0", "#F2AE2E", "#FFD25A"],
+  "l10n": {
+    "commit": "commits",
+    "repo": "repos",
+    "review": "reviews",
+    "pullreq": "PRs",
+    "issue": "issues",
+    "contrib": "contribuições"
+  }
+}

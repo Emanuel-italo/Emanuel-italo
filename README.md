@@ -1,9 +1,9 @@
 # Emanuel Italo
 
 Coloco IA para trabalhar em processo de verdade.\
-IA e automação no Bradesco · ADS na FIAP
+Desenvolvedor de IA e automação no Bradesco · ADS na FIAP
 
-Hoje sou Business Partner no Bradesco e uso IA, desenvolvimento e BI para melhorar a rotina executiva. Construo chatbots com RAG que respondem com base nos documentos internos, e robôs que tiram trabalho manual do caminho. Já são mais de sete robôs em produção.
+Sou desenvolvedor no Bradesco e trabalho com IA e automação. Desenvolvo chatbots com RAG e robôs que tiram trabalho manual do caminho. Já são mais de sete robôs em produção.
 
 Cheguei aqui pelo lado do negócio. Comecei no RH analisando dados de contratação, fui para contas a pagar automatizando pagamento de fornecedor e virei dev de RPA na Transformação Digital. Por isso penso em IA a partir do problema, e não da ferramenta.
 
